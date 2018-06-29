@@ -6,7 +6,9 @@ body {
       pre {
           tab-size: 8;
       }
-      
+      .container{
+                padding:20%;
+}
       @media screen and (max-width: 768px) {
           .side-collapse-container{
               width:100%;
